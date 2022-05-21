@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author Enrique Gómez
  
  * b) Creem la classe Historial per a gestionar tots els partits que es van
- * jugant. Podria ser similar al següent esquema
+ * jugant. Podria ser similar al següent esquema...
  */
 public class Historial implements Serializable {
 
